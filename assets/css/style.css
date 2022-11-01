@@ -3,7 +3,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap"); */
 
 :root {
-  --headings-font: "Handlee", cursive;
+  --headings-font: "Roboto", cursive;
   --primary-color: rgb(120, 102, 32);
   --light-grey-color: rgb(243, 243, 243);
   --dark-color: rgb(46, 46, 46);
